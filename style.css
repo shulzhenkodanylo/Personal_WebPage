@@ -1,0 +1,36 @@
+body {
+         text-align: center;
+            width: 700px;
+            margin: auto;
+            background-color:#e4e7e7a8;
+        }
+
+        h1 {
+            font-size: 28px;
+        }
+
+        .motivation {
+            font-size: 20px;
+        }
+
+        .line {
+            border-bottom: 1px solid #888;
+        }
+
+        ul {
+            list-style: none;
+            padding: 0;
+        }
+
+        li {
+            text-align: left;
+            margin-bottom: 10px;
+        }
+
+        strong {
+            font-weight: bold;
+        }
+        .topps{
+            font-size: 8px;
+            color: #ff9595 ;
+        }
